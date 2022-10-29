@@ -1,2 +1,2 @@
-# Timer
-Build a Timer with JavaScript
+# TIMER WITH JAVASCRIPT
+PROJECT #1 
