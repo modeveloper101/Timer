@@ -1,2 +1,2 @@
 # Timer
-Build a timer with JavaScript
+Build a Timer with JavaScript
